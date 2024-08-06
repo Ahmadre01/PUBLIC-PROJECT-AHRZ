@@ -18,5 +18,9 @@ old_item=shoplist[0]
 del shoplist[0]
 print("I bought the : " , old_item)
 print("My new updated shopping list is ==> ",shoplist ,"\n")
+<<<<<<< HEAD
 
 # example project ==> shoplist
+=======
+# example project ==> shoplist
+>>>>>>> f487afc106d7e07604fadc4ab2fbde2700dd9e36
